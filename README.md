@@ -12,7 +12,12 @@ A simple top-down game mechanic project
 
 ## Play
 
-May you access at [Github pages](https://lizzardmedeiros.github.io/top-down-game/game.html)
+- May you access at [Github pages](https://lizzardmedeiros.github.io/top-down-game/game.html)
+- Movements
+  - `WASD` movement
+  - Directional mouse pointer
+  - `LMB` shoot
+
 
 ## Credits and inspirations
 
